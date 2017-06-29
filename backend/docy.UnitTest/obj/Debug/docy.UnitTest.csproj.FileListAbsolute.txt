@@ -1,0 +1,7 @@
+D:\src\net\docy\docy.UnitTest\obj\Debug\docy.UnitTest.csprojResolveAssemblyReference.cache
+D:\src\net\docy\docy.UnitTest\bin\Debug\docy.UnitTest.dll
+D:\src\net\docy\docy.UnitTest\bin\Debug\docy.UnitTest.pdb
+D:\src\net\docy\docy.UnitTest\obj\Debug\docy.UnitTest.dll
+D:\src\net\docy\docy.UnitTest\obj\Debug\docy.UnitTest.pdb
+D:\src\net\docy\docy.UnitTest\bin\Debug\nunit.framework.dll
+D:\src\net\docy\docy.UnitTest\bin\Debug\nunit.framework.xml

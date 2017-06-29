@@ -1,0 +1,5 @@
+D:\src\net\docy\docy.Core\obj\Debug\docy.Core.csprojResolveAssemblyReference.cache
+D:\src\net\docy\docy.Core\bin\Debug\docy.Core.dll
+D:\src\net\docy\docy.Core\bin\Debug\docy.Core.pdb
+D:\src\net\docy\docy.Core\obj\Debug\docy.Core.dll
+D:\src\net\docy\docy.Core\obj\Debug\docy.Core.pdb

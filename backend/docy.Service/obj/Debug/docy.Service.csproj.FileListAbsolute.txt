@@ -1,0 +1,10 @@
+D:\src\net\docy\docy.Service\obj\Debug\docy.Service.csprojResolveAssemblyReference.cache
+D:\src\net\docy\docy.Service\bin\Debug\docy.Service.exe.config
+D:\src\net\docy\docy.Service\bin\Debug\docy.Service.exe
+D:\src\net\docy\docy.Service\bin\Debug\docy.Service.pdb
+D:\src\net\docy\docy.Service\obj\Debug\docy.Service.exe
+D:\src\net\docy\docy.Service\obj\Debug\docy.Service.pdb
+D:\src\net\docy\docy.Service\bin\Debug\Newtonsoft.Json.dll
+D:\src\net\docy\docy.Service\bin\Debug\Newtonsoft.Json.xml
+D:\src\net\docy\docy.Service\bin\Debug\docy.Core.dll
+D:\src\net\docy\docy.Service\bin\Debug\docy.Core.pdb

@@ -1,0 +1,10 @@
+﻿Components
+	.net http(s) Server
+	ELM Single Page Application as frontend
+	
+Requirements
+[X] httplistener for async Listenting
+[ ] CRUD Endpoints for Documentobjects
+[ ] Query Endpoint / Interface for Documents
+[ ] DocumentRepository for collecting and accessing Documentobjects
+[ ] IRepositoryPersistor Interface 

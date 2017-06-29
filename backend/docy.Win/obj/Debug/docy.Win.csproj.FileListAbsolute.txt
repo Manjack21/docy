@@ -1,0 +1,10 @@
+D:\src\net\docy\docy.Win\bin\Debug\docy.Win.exe.config
+D:\src\net\docy\docy.Win\bin\Debug\docy.Win.exe
+D:\src\net\docy\docy.Win\bin\Debug\docy.Win.pdb
+D:\src\net\docy\docy.Win\bin\Debug\docy.Core.dll
+D:\src\net\docy\docy.Win\bin\Debug\docy.Core.pdb
+D:\src\net\docy\docy.Win\obj\Debug\docy.Win.csprojResolveAssemblyReference.cache
+D:\src\net\docy\docy.Win\obj\Debug\docy.Win.exe
+D:\src\net\docy\docy.Win\obj\Debug\docy.Win.pdb
+D:\src\net\docy\docy.Win\obj\Debug\docy.Win.frmMain.resources
+D:\src\net\docy\docy.Win\obj\Debug\docy.Win.csproj.GenerateResource.Cache

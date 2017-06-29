@@ -1,0 +1,6 @@
+D:\src\net\docy\docy.Console\obj\Debug\docy.Console.csprojResolveAssemblyReference.cache
+D:\src\net\docy\docy.Console\bin\Debug\docy.ConsoleApp.exe.config
+D:\src\net\docy\docy.Console\bin\Debug\docy.ConsoleApp.exe
+D:\src\net\docy\docy.Console\bin\Debug\docy.ConsoleApp.pdb
+D:\src\net\docy\docy.Console\obj\Debug\docy.ConsoleApp.exe
+D:\src\net\docy\docy.Console\obj\Debug\docy.ConsoleApp.pdb
